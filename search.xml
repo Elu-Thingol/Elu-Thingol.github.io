@@ -19,9 +19,10 @@
 <li>A B C</li>
 <li>c</li>
 <li>B</li>
-<li>A</li>
+<li>A<a id="more"></a>
+<h1 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h1></li>
 </ol>
-<h1 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h1><hr>
+<hr>
 <h2 id="TODO"><a href="#TODO" class="headerlink" title="TODO"></a>TODO</h2><ul>
 <li><input disabled="" type="checkbox"> 未勾选</li>
 <li><input checked="" disabled="" type="checkbox"> 已勾选</li>
