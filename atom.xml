@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://elu-thingol.github.io/"/>
-  <updated>2020-04-07T07:25:04.072Z</updated>
+  <updated>2020-04-13T13:49:59.830Z</updated>
   <id>https://elu-thingol.github.io/</id>
   
   <author>
@@ -17,11 +17,40 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>第二十一周</title>
+    <link href="https://elu-thingol.github.io/post/1846674669/"/>
+    <id>https://elu-thingol.github.io/post/1846674669/</id>
+    <published>2020-04-13T13:20:15.000Z</published>
+    <updated>2020-04-13T13:49:59.830Z</updated>
+    
+    <content type="html"><![CDATA[<div id="hexo-blog-encrypt" data-wpm="哼, 口令对上了才给看 (￣^￣)" data-whm="emmmm.... 校验居然出错了!? 看在你想了这么久口令，就给你看看好了"><div class="hbe-input-container"><input type="password" id="hbePass" placeholder="∑(｀д′) 天王盖地虎！" /><label>∑(｀д′) 天王盖地虎！</label><div class="bottom-line"></div></div><script id="hbeData" type="hbeData" data-hmacdigest="ae7f57f6d9d37c1452e772323ea2eaf16d30af5a7262cd7c4a4fa27f060df40e">92997a5bae14d47db108538e155e4536e328c7ec53df377e3acff77ae1d294e2a9b161f220e90ac0b7282eaf9e8c9937fa204aa967c6e7c15c21d0884ed17b1db514d3d794332ac5197f95a4c136692bc5cba95ea2315393f5cf3da7d4a9ac299a77f826b37a4757916558ce7dd22911cc6393c28af18951a30d3563a51cdafd107537d14b04df7304f103b08148a54a59a3084a931d82b00adde245a9d69e4abe2162953b5385c6ffcb0cb1bf4a535aa88e611920f97a57e7d352b647d9b00d670425d386870985fcee44f828c74c86f5996ddd3bf089778a5628166ff2848bc3e02aa7398444ebe73add1d263a9fb47ab1130059417b27b9e55d717a23be67353cc07808ce0959cd31d68f7ac6fbe506f2ec2393cbbf9a170d81ef578130d321011d37fb2cf42545a34883afaf4cdd89d7709258f1c334edb291336bf072337795ae8d47ae78192a0d28b2d93bdada3df99a46f30b9dc530ba8ab40e20e8472f315dab1144a744f38f33f66b06316ab757d04c463a2d2ff6e2fe3ebc09071f4e380312a81f5c4cd7649b531dfa42cb4fd184b306c9ed426fffd32b2204d7153fbc02d811b5b0977288d282b142eb1ac90db6e9a7d9d9b99f22ee6ea6202f3af0c7700b1f14deea367ced5d7c7485f7791693ba95a1dfe000abd0effe4150c5c050c0c571f1f33d8948e6492de70659e4a9d53680c37d6fd9f9261e31fb64c47b70c717ed43ae878653b7fb2e0a107bd58b580ffd84bad5d9dc0a2ed15911a7b76733b95cc007617a3e126e7e7de0360d8ada6eea31d44755c05a5140ee8235aaff234bb93c22de026b306fbe3dfb7eb2a79304e0f70c94ceb73279e011db4a4aa2972ec5b1326b3d768ffa6bdc06cb9b955f6d6fa83cb8251e027993bad6712076a81c52f06a519f5a5ccc81b4c4a03e3b2b0c3f543855116f58e821f0d1af233b1d65d617a8b640b66e48db668b1bb9e9ec940fac7efef3e9ce888f12002aeaa3303ee354b45d98b1e33a82173a8d6fca5d0208f7cb2aa7479695011cdf1896b8311aa2343c128ff3da0f9ecdbdb2a92147e184852f507fa36cec57a331d8a4e455b17d5eda10da3563f2e95afc39d934b5055dd944b85bcdc641e2de4434b2c40a7df965366276cae67547efeb7666314f73aadfd46e9a54a44c0a23f773605a3b16769c9e1158c4fefef82ae2a432945dab29e7d49fcc0d22614dcce1b3fdf88f368e55b2c8fcc3088868a404fb72f74f54a9f37dab591224ac8512dad74a8c6350c7f68fd1f2969fe174ed1d615581de97f3ce7b7c48c4c68762d0ed59cf09583f519328ecf6c1e2baaa47dec140840e5fa2a33f9179e7b18e49c28ddcf2ab0989e61b44327a40d40f34633552924328986e8a0b9dafecf511f69ac7d47cd19c9b5a02b3b89f5ebd9d1c726b5a082cd45c029a6bcc2c2cb165b897fec03d91df23987c5eff64cb928faa6bde50de65976fedb36a3c0f9cb9ccf7d5ec268959e6ae58d032b47b989390dfe41c67afb1a52ab1dc5e98dc91338e126dcd7a00fccaada8d00036fc720bac9cdfa77b25db7186f48f4ae763fd1b2b995fdc7238ba078b482978b7368bf304230e16dada81e89524dae03ac5d99bff0d2b1f87a6da46ea2d9d17b5dd6dff080e47892dd26b404a82eb20e4395937dbb7faa760a021fd34be6027d5098f8b11b4cdd17035bd392f0c125a291d79e129ba201f60813ea94850e26add9bb04f363be314926a8dd39f4b89a967cde1ac2854fa3c8f3752f5e7145da552e6c894a31d2df2a87662be40032b2591293456bbfd0140881048587b42f876c665e32fc9076f3302414a80729ce9e0567700e017df987481f3dd151dd973f5e8270fe11290505405fa3fa97d9c72130895adf1c1d4a58fc575772c10b7aa131df24a718098929a046bfdc427c038ea5e58299628d64ad330344fa7855ad7227946686d9163502786712a884acc525c44bbdd55ee43439e0326bf2ce32f4b96541b0d64352441c916a43662d5c2ae9fdba69bc19eec48cf38b25dd569c5640c9dfa6397fa21d6fc778fa6640ab10a9ad32407794f44aad89502bd42d948391b60459a10d662acdfba427d8d334eb160ae74d2389610fca364464083cdfbdf3de882d054e09a6254cc44b9e0f94d065bc63b3f73752d90e11c652e9088711fb3e85f91385387fe6918eb67344d16d1d5cc1bc44357d3502c8b619e5b2c7bbdf0759909bdda82b4752ce55985331bcefa5bf7ab3855e1d5d626b03c917147330b28790f3021d0227240</script></div><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+    
+    <summary type="html">
+    
+      不让你看 o(´^｀)o
+    
+    </summary>
+    
+    
+      <category term="随笔" scheme="https://elu-thingol.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="中文" scheme="https://elu-thingol.github.io/tags/%E4%B8%AD%E6%96%87/"/>
+    
+      <category term="实习" scheme="https://elu-thingol.github.io/tags/%E5%AE%9E%E4%B9%A0/"/>
+    
+      <category term="周记" scheme="https://elu-thingol.github.io/tags/%E5%91%A8%E8%AE%B0/"/>
+    
+      <category term="实习周记" scheme="https://elu-thingol.github.io/tags/%E5%AE%9E%E4%B9%A0%E5%91%A8%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
     <title>第二十周</title>
     <link href="https://elu-thingol.github.io/post/635820368/"/>
     <id>https://elu-thingol.github.io/post/635820368/</id>
     <published>2020-04-07T05:45:37.000Z</published>
-    <updated>2020-04-07T07:25:04.072Z</updated>
+    <updated>2020-04-07T07:29:17.025Z</updated>
     
     <content type="html"><![CDATA[<div id="hexo-blog-encrypt" data-wpm="哼, 口令对上了才给看 (￣^￣)" data-whm="emmmm.... 校验居然出错了!? 看在你想了这么久口令，就给你看看好了"><div class="hbe-input-container"><input type="password" id="hbePass" placeholder="∑(｀д′) 天王盖地虎！" /><label>∑(｀д′) 天王盖地虎！</label><div class="bottom-line"></div></div><script id="hbeData" type="hbeData" data-hmacdigest="cf1296334d8c427ddac9bbae80a3a91736fdb632266fd4f936664baf3d6add31">92997a5bae14d47db108538e155e4536af488c06900cf136dba3c24b3d857c136aa553834fb919f9fd28b3c0295777e17cc67e92d9badd15f7ee3dd8b55722c68130bc51f9f1c156233fec3ae1d6278c42f77fa9c4d367c403cd9c0fbca16b9b3863b10b37ef378a4ded1b06c6e3b30f9438885a88bbb67349b6ee02e4aae7ba11acadac2e42b830b227303169bb6176ae9cf267ed82feb0fd4d81a62b477a765e6c4c56e7c8cac8bae51405a52321b8b0e010cc4763d95107d0687acd0e988ee9faab71735aa65136339b5cad4d88ec1a1bdb4fde844b612d6c7d1ea08face1a1d11bb54938b4ebf23b6ba1455d5ecef2eae5d5151d085f3d861b81a4748a1d8ea883af7b2b916554e9812ff2bba4675d474bcf3978d30e032880ca1ff03ba69db316ad8f2b9dafc8007b29695a1036abe2a9fb38e52f7e07c0d75072ba3ed0385db7717d9d0be7d96b05b906e8e5593b2c32ace98ff7b470e2c09d45ae388e144563e94cb3a48cc8c2bd0cee8f663390254db5e95de8a7ebcdcecdf983c74ce642d8b03cf4f1c5712c889745a6e340c5aeff7ce205698ebba9106d0eda8c13ca3a797b43d7416ad2e2cd69d092e1e47f699c56fb7b77466eb458fc0755a242e704b3d9330e5ebf62f4bd249e46c78b608fbf6fdef37c0b86bc6f8262246db15ff44dff5266bf710f4f7006a2cdb4c333fd27d6ddd5f5914fd2c91342b5b54aaa94917311cc81dc09451c8f1de0dc388d2e8f2b4c7dbfcf62c05a72a110dbf4c887dde684234d08d666695f9919c66b20faa73e1a15675960f0a57b9291dbd85d435ee3a0c339cb4e1ba7f81a0b12b26276e6f7b764bb2ce2c804e2c743504ae7fdd726ac6e7932c3c7a28bbf7c9925b3816774fbd4840cbc48c562973ebcde79c977239adc3d8165a9921691536ec7a08ff570756b58c55030eb73662d931418cbfbe3afdfd90513abf33c8a1d1fb35c9ed7a05a1e8a2dbec605d8a7dee2f06c105685e105738d01d98854f7799540d55d4f603b5d0e63e49afac2790583c7395669fc76f29859decf9a78f5d515c8f88d0bdd5d435a70f7eb75ebe37eb4fe8bb48c4ff21b86fefd57a2fba8a9c158a46b7f3bbcb47693984e54a9e669c05b24c9246413962529d471c0d95258bb42756e191e4bcea870a4b3f9f68e7cc46fe2c15e8aded8269fa5b1bd7131fa208f95858a16b8949aecbbd9d9d10d44ef24372dedf232d308450cd7fabc6c4e6fa66081d73f11339fc1509ce48cf9be913c088ad5b9c25400a8d89c1925b3808f9a787dfe4f13997bd056f9632eb8faed2363ec415c7efc94d2b476e5fe259f23ed0e06b5547f09f88637e10c32a576eb9d349a06daab90078d1e98b2b68e10d7ae7b344ef84c24a8edce16fef4edcfe337a31db1e96ddf0e9629865e9119099a9af648077e7b5a9bceac924c585c33553ec2259d2710c9dfc9a77fe542ba60340b0b63806b1594508fe82f96d038778476283d8ce13835de8591eb29eecc5a0d26556d4817bd9408fe1fc574afcc1eb7d5fdaf7cf6760d185710252ff1ee82f576ae144af95c83b74f65ec293ccb5570c1f467d8641f72adbd0b720929865314ed6eb87d8d465af3f5c52bc229eee9249438d0b637f7b8dd51b1e05ed566f7d2c3f7e57bd794ad04b52f52d8c3b4a4fe011e9513a5e0685b9d3594543a1c746c605b57838a0ea3c387b224c7f0775ed6c7c614903b8cba31a38a13c471515de921d9696a4d55a07921b80e817ce018c1577818aa4ca3da38416eac82523d8b1f0a2cbb97e7df7cc22d4f698d402d78784b0edddf0f54a5b197f42d58bc6c02bc308aec4520938a7724ae3b1ca4eb24c9bcb8f3530169695330deb85c171395bb00c1ab81fb6ce981544f1fdbc89800b8cecfd73123122e3fe644513d24a3e2048500d56e74db670efda08fe2cebba5f2bf2a8789c354ce7b5c088964cb92e86b913f4d69af3e0ec58500c7d277c7ec99879fba46965b97ecf8d030b1f338f41a2ff0d18c8fdef632b484acc818077abb49a4006fa0bf8610b0031920b6b8273f6c2fd394799a501be83730ab278f386038c91dab76dcc8a569bd50a32fd18aadbe709bd682b921a22558fcacf62a3d448dc268ff7a6de81c82ec7e15f7e939a1936a29eec7d29c35440cffe642ae293642899ecbcb85ee5b71d62f208885d127df73c30d5e74f247e54ddf3f246520372c23d4c4e2aaac5a4a69f6d4e3f4fa98cc2be9fbc0bbd12352e03d81ed64736b8ed922ad35dacdbc268764929ae92f1d29e02c11dee5e2b10a4fe95868fd667964782763977a84b4ed181371477634bf0564ce2616ede60e7d580f6a066225d85542035c6e04a6bebeda6321fa45836e714cbe60e468777adb8f14f302a4068ddd970fb4bf63fce640e1feca58cb9d8cfd51b08c5cf56850d0ec109d384e1c62a691ec3c99d787744bd9a224b9eefff4e00802d7fcd316e6f230329c3de9b8689f05d17475c62e1e270e26760583f11fc4819d1f5e48c1ca761edf70a75e437628091b7f07ffc3cec1325496f4d5af8a1f</script></div><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
     
@@ -50,7 +79,7 @@
     <link href="https://elu-thingol.github.io/post/3501276543/"/>
     <id>https://elu-thingol.github.io/post/3501276543/</id>
     <published>2020-04-07T05:45:10.000Z</published>
-    <updated>2020-04-07T06:11:18.921Z</updated>
+    <updated>2020-04-07T07:25:19.214Z</updated>
     
     <content type="html"><![CDATA[<h1 id="答案"><a href="#答案" class="headerlink" title="答案"></a>答案</h1><hr><h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><ol><li>A B C D</li><li>A B C</li><li>B C D</li></ol><h2 id="课后习题"><a href="#课后习题" class="headerlink" title="课后习题"></a>课后习题</h2><ol><li>A B C</li><li>A D</li><li>A C D</li><li>合理增加 ==<strong>公共</strong>== 消费，启动 ==<strong>实体商店</strong>== 消费，保持 ==<strong>线上新型</strong>== 消费热度不减。</li><li>A B C D</li><li>B</li><li>A B</li><li>D</li></ol>]]></content>
     
